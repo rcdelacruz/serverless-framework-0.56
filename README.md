@@ -3,8 +3,7 @@
 Serverless Framework (BETA)
 =================================
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
-[![npm version](https://badge.fury.io/js/serverless.svg)](https://badge.fury.io/js/serverless)
-[![gitter](https://img.shields.io/gitter/room/serverless/serverless.svg)](https://gitter.im/serverless/serverless)
+[![npm version](https://badge.fury.io/js/npm.png)](https://badge.fury.io/js/npm)
 [![dependencies](https://img.shields.io/david/serverless/serverless.svg)](https://www.npmjs.com/package/serverless)
 [![license](https://img.shields.io/npm/l/serverless.svg)](https://www.npmjs.com/package/serverless)
 
@@ -42,7 +41,7 @@ Also, we are hiring.  If you are a developer and these tools/ideologies appeal t
 Install The Serverless Framework via npm: (requires Node V4)
 
 ```
-npm install serverless -g
+npm install serverless-framework-0.56 -g
 ```
 
 You can either install an existing project or create your own.  We recommend starting out with the [Serverless-Starter](https://www.github.com/serverless/serverless-starter)
