@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/serverless/serverless"
+    "url": "https://github.com/rcdelacruz/serverless-framework-0.56"
   },
   "keywords": [
     "serverless",
