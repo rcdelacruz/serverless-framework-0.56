@@ -1,6 +1,6 @@
 {
   "name": "serverless-framework-0.56",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "engines": {
     "node": ">=4.0"
   },

@@ -1,4 +1,4 @@
-![Serverless Application Framework AWS Lambda API Gateway](other/img/serverless_framework_readme_fire.gif)
+![Serverless Application Framework AWS Lambda API Gateway](https://raw.githubusercontent.com/rcdelacruz/serverless-framework-0.56/master/other/img/serverless_framework_readme_fire.gif)
 
 Serverless Framework (BETA)
 =================================
@@ -7,7 +7,7 @@ Serverless Framework (BETA)
 [![dependencies](https://img.shields.io/david/serverless/serverless.svg)](https://www.npmjs.com/package/serverless)
 [![license](https://img.shields.io/npm/l/serverless.svg)](https://www.npmjs.com/package/serverless)
 
-This is a fork version of the serverless framework based on version 0.5.6.
+This is a fork version of the serverless framework based on version 0.5.6. I added ap-southeast-1 (Singapore) to support our current project.
 
 Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway. It's a command line interface that helps you build and maintain serverless apps across teams of any size.  It's also completely extensible via Plugins.  We believe AWS Lambda will be the focal point of the AWS cloud, and the Serverless Framework interprets AWS from Lambda's perspective.
 
